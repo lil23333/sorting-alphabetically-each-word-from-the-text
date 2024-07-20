@@ -1,0 +1,68 @@
+body {
+    background:#708090 ;
+}
+ #btn {
+    background: #008;
+    color:beige;
+
+}
+tr, td {
+    width: 60px;
+    height: 60px;
+    border: 3px solid #483D8B;
+}
+row {
+    width: 60px;
+    height: 60px;
+    border: 3px solid #2F4F4F;
+}
+.class1 {
+font-family: cursive;
+font-weight: bold;
+}
+
+.class2 {
+    font-family: fantasy;
+    font-style: oblique;
+    }
+
+#story {
+    background: #FFEFD5;
+}
+
+.color1 {
+    background: #DC143C;  
+}
+.color2 {
+    background: #2F4F4F;  
+}
+.divclass1 {
+    position: absolute;
+    overflow: auto;
+    padding: 10px;
+    top: 60px;
+    bottom: 0;
+    background: #6495ED;
+    height: 100px;
+    width: 100px;
+}
+.divclass2 {
+    position: absolute;
+    overflow: auto;
+    padding: 10px;
+    top: 60px;
+    bottom: 0;
+    background: hwb(220 80% 13%);
+    height: 100px;
+    width: 100px;
+}
+.hh {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+    
+    .hh1 {
+        font-size: 1em;
+        font-weight: normal;
+        font-style: oblique;
+    }
